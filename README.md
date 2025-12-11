@@ -42,8 +42,6 @@ You will find Jupyter notebooks under the **OOPS** folder that demonstrate these
 ---
 
 
----
-
 ## 🚀 Purpose of This Repository
 
 This repository is created to:
